@@ -19,7 +19,6 @@ I am a self-taught Python developer focused on building real, functional tools f
 ---
 
 ### 📂 Featured Projects
-*(Note: You can link to your best 2 or 3 projects here)*
 - **[Expense List Manager](https://github.com/ibangaudo118-droid/python-scripts/tree/main/expense-list-manager):** A terminal-based app to manage expenses using Python lists, while loops, and menu logic.
 - **[Admission Checker](https://github.com/ibangaudo118-droid/python-scripts/tree/main/admission-checker):** A program evaluating university admission rules using conditionals and string manipulation.
 
