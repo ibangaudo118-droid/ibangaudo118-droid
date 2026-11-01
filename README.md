@@ -7,9 +7,6 @@ I am a self-taught Python developer focused on building real, functional tools f
 - 🔭 **Current Focus:** Mastering Python fundamentals (Tier 1) and building a strong GitHub portfolio.
 - 🌱 **Currently Learning:** Tuples, Sets, and advanced data structures.
 - 🎯 **Goal:** To become a world-class backend/automation engineer.
-- ⚡ **Fun Fact:** I write all my code on an Android phone using Termux and Acode.
-
----
 
 ### 🛠️ My Tech Stack
 - **Language:** Python 3
